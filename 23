@@ -1,0 +1,1 @@
+java -cp target/wetorrent-1.0-SNAPSHOT.jar org.bitlet.wetorrent.Sample 9EDDCFF3A5AB4953EBF4FDBAE442AC24965A5E41
